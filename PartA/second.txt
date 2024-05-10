@@ -8,3 +8,19 @@
     git push -u origin master
 
 
+>docker --version
+>docker images
+>docker ps
+>docker pull python
+>docker images
+>docker run --name JAVA -it -d python
+>docker ps
+>docker exec -it JAVA python3
+>/exit
+>docker ps
+>docker stop d9afae2bd7c6
+>docker container rm d9afae2bd7c6
+>docker ps
+>docker image prune
+
+
